@@ -29,7 +29,7 @@ CREATE TABLE mercado.clientes (
 
 ## READ
 
-Para ler um dado, deve-se utilizar **SELECT**, você também pode utilizá-lo com condicionantes como **WHERE**.
+Para ler um dado, deve-se utilizar **SELECT**, você também pode utilizá-lo com condicionantes como **WHERE** e **BETWEEN**.
 
 ```
 // Seleciona os dados de toda a tabela
@@ -47,3 +47,21 @@ Para atualizar uma linha no banco de dados, utilizamos **UPDATE**;
 // Muda o nome do cliente GABRIEL no ID = 2 da tabela CLIENTES
 UPDATE clientes SET nome = 'Gabriel' WHERE id = 2
 ```
+
+## DELETE
+
+O comando **DELETE** pode ser usado para apagar uma linha ou todo o conteúdo da tabela.
+
+```
+// Deleta a linha onde o nome é GABRIEL
+DELETE FROM clientes WHERE nome = 'Gabriel'
+
+// Deleta todo o conteúdo da tabela
+DELETE FROM clientes
+```
+
+## Simples que pode complicar
+
+Aparentemente é uma tarefa simples utilizar um banco de dados, correto? Errado!
+
+Para pequenas aplicações, sem conexões entre tabelas ou iterações, o CRUD é realmente simples, SELECT, DELETE, etc. O problema é quando o sistema cresce, tabelas possuem diversas foreign keys ou a consulta depende de multiplos parâmetros, dispostos em multiplas tabelas e o retorno deve ser uma combinação de colunas entre tabelas. Para isso, é necessário utilizar diversas outras medidas e combinações para resolver o problema.
