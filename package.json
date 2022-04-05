@@ -1,0 +1,24 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "Apenas mais um blog de aprendizado na área de programação.   Utilizado para juntar meus conhecimentos nas áreas em um só lugar.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "bundle exec jekyll serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willmustafa/learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willmustafa/learning/issues"
+  },
+  "homepage": "https://github.com/willmustafa/learning#readme"
+}
