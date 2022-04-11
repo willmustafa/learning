@@ -56,8 +56,10 @@ O comando **DELETE** pode ser usado para apagar uma linha ou todo o conteúdo da
 // Deleta a linha onde o nome é GABRIEL
 DELETE FROM clientes WHERE nome = 'Gabriel'
 
-// Deleta todo o conteúdo da tabela
+// Deleta todo o conteúdo da tabela 
 DELETE FROM clientes
+
+*Esse comando pode dar erro de SAFE MODE, caso não queira desativar o modo seguro do banco de dados, utilize a condicional WHERE com uma condição genérica como WHERE id > 0
 ```
 
 ## Simples que pode complicar
