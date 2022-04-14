@@ -25,3 +25,12 @@ permalink: docs/basico/dicionario
  >Conjunto de comandos, funções, protocolos e objetos em que programadores podem interagir com sistemas externos. Dessa forma, possibilitando a utilização de comandos padrões para agilizar operações comuns entre sistemas, de tal forma que desenvolvedores não precisarão escrever o código do zero. Imagine que você precisa implementar um módulo de mapas em sua aplicação, isso seria trabalhoso começado do zero, certo? Porque não usar algo já existente? O Google Maps através de sua API, por exemplo. [- Becode](https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/)
 
  Ex. simplesmente uma maneira de acessar uma aplicação externa, fornecida por essa aplicação externa. Você -> Seu site -> API -> Google Maps. Quando tem um mapa em um site, você não está pedindo a localização para o Google diretamente, você pede pra essa API (que vai ter todos os códigos e funções necessárias) e ela vai ir até o Google e retornar o resultado.
+
+ ### Mixins
+
+ É um termo usado na programação orientada a objetos, e seu conceito envolve o "Don't Repeat Yourself", ou seja, são pedaços de código que são reutilizados em outras partes do código.
+
+ Como exemplo, as classes na orientação a objetos podem extender outras classes, fazendo um mixin.
+
+ ### POO - Programação Orientada a Objetos
+
