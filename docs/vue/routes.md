@@ -90,3 +90,9 @@ Para fazer transições entre as páginas, o vue cria situações perfeitas, que
   }
 </style>
 ```
+
+## Usando os navs
+
+```
+<router-link to="/">Go to Home</router-link>
+```

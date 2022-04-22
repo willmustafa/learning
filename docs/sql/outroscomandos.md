@@ -15,3 +15,19 @@ ALTER TABLE tablename AUTO_INCREMENT = 1
 SET @count = 0;
 UPDATE `users` SET `users`.`id` = @count:= @count + 1;
 ```
+
+# Arredondando um valor
+
+Arredondando um select avg para 2 decimais:
+```
+SELECT ROUND( AVG(preco), 2) FROM tabela
+
+```
+
+## Pegar a média de valores
+
+```
+SELECT AVG(preco) FROM tabela
+```
+
+Isso retorna um valor completo, com vários decimais caso haja.
