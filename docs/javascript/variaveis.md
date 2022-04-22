@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tipos de Variáveis
-nav_order: 1
+nav_order: 12
 parent: Javascript
 permalink: docs/javascript/variaveis
 ---

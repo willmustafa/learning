@@ -3,7 +3,7 @@ layout: default
 title: Teste de Software
 nav_order: 5
 has_children: true
-permalink: docs/eng-software/teste
+parent: Engenharia de Software
 ---
 
 # Teste de software

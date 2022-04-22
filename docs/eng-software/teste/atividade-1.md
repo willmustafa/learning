@@ -2,13 +2,14 @@
 layout: default
 title: Atividade 1 - Planejamento de teste para um sistema
 nav_order: 3
-parent: Atividades da disciplina de teste de software
-permalink: docs/eng-software/atividades/atividade-1
+parent: Teste de Software
+grand_parent: Engenharia de Software
 ---
 
 # Atividade 1
 
 Aluno: Willian Felipe Mustafa
+
 Disciplina: Teste de Software
 
 ## 1.1 Requisitos
@@ -26,6 +27,8 @@ Tente contemplar o modelo em V (parcial em algumas fases)
 ## 1.2 Sistema
 
 Máquina de café automática com dinheiro
+
+![](https://www.newchang.com.br/newchang/opera.png)
 
 A máquina de café/chá automática é disponibilizada em locais onde o público / clientes podem realizar a compra de diferentes tipos de café expresso e chás através da inserção de moedas e notas de reais e selecionando o produto desejado no painel.
 

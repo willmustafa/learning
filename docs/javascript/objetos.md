@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Objetos
-nav_order: 2
+nav_order: 13
 parent: Javascript
 permalink: docs/javascript/objetos
 ---

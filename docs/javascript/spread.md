@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spread
-nav_order: 1
+nav_order: 11
 parent: Javascript
 permalink: docs/javascript/spread
 ---

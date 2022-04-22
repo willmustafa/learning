@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data e Hora
-nav_order: 1
+nav_order: 10
 parent: Javascript
 permalink: docs/javascript/data&hora
 ---
