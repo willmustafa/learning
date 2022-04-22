@@ -3,7 +3,7 @@ layout: default
 title: Dinamic Page Title
 nav_order: 4
 parent: VUE.js
-permalink: docs/vue/pagetitle
+grand_parent: Javascript
 ---
 
 # Título de página dinâmico usando Routes

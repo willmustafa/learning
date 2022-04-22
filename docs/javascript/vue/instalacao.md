@@ -3,7 +3,7 @@ layout: default
 title: Instalação
 nav_order: 2
 parent: VUE.js
-permalink: docs/vue/instalacao
+grand_parent: Javascript
 ---
 
 # Instalação

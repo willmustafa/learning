@@ -3,7 +3,7 @@ layout: default
 title: Routes
 nav_order: 3
 parent: VUE.js
-permalink: docs/vue/routes
+grand_parent: Javascript
 ---
 
 # Routes

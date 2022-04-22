@@ -1,9 +1,9 @@
 ---
 layout: default
 title: VUE.js
-nav_order: 5
+nav_order: 1
 has_children: true
-permalink: docs/vue
+parent: Javascript
 ---
 
 # VUE.js
