@@ -26,6 +26,6 @@ permalink: docs/basico/dicionario
 
  Ex. simplesmente uma maneira de acessar uma aplicação externa, fornecida por essa aplicação externa. Você -> Seu site -> API -> Google Maps. Quando tem um mapa em um site, você não está pedindo a localização para o Google diretamente, você pede pra essa API (que vai ter todos os códigos e funções necessárias) e ela vai ir até o Google e retornar o resultado.
 
- ### Boilerplate
+### Boilerplate
 
- Boilerplate vem da área do direito e se refere a partes de um contrato que não precisam ser alterados mas que precisam estar presentes em todo novo contrato. Ou seja, um Boilerplate é um código que sempre se repete quase sem alteração.
+Boilerplate vem da área do direito e se refere a partes de um contrato que não precisam ser alterados mas que precisam estar presentes em todo novo contrato. Ou seja, um Boilerplate é um código que sempre se repete quase sem alteração.

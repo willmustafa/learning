@@ -3,7 +3,6 @@ layout: default
 title: Data e Hora
 nav_order: 10
 parent: Javascript
-permalink: docs/javascript/data&hora
 ---
 
 # Data e Hora

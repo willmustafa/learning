@@ -20,13 +20,13 @@ O processo no Cloudflare é simples, faça o registro, redirecione o DNS do dom�
 
 Para ativar a opção FULL, você precisará criar as chaves e adicionar em sua hospedagem, veja o passo a passo:
 
-1- No Cloudflare, entre em SSL -> Origin Server
-2- Create Certificate
-3- Em Hostname coloque o domínio do seu site sem 'www', caso tenha subdomínios, pode adicionar aqui também ou você pode criar um SSL para cada subdomínio
-4- Clique em Create
-5- Salve os códigos em um local seguro
-6- Acesse sua hospedagem e vá em SSL
-7- Adicione uma custom SSL keys
-8- Copie os códigos gerados pelo Cloudflare
-9- No Cloudflare, vá em SSL e ative a opção FULL
-10- Pronto!
+- No Cloudflare, entre em SSL -> Origin Server
+- Create Certificate
+- Em Hostname coloque o domínio do seu site sem 'www', caso tenha subdomínios, pode adicionar aqui também ou você pode criar um SSL para cada subdomínio
+- Clique em Create
+- Salve os códigos em um local seguro
+- Acesse sua hospedagem e vá em SSL
+- Adicione uma custom SSL keys
+- Copie os códigos gerados pelo Cloudflare
+- No Cloudflare, vá em SSL e ative a opção FULL
+- Pronto!

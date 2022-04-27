@@ -3,7 +3,7 @@ layout: default
 title: Web Scrapping
 nav_order: 2
 parent: Node
-permalink: docs/javascript/node
+grand_parent: Javascript
 ---
 
 # Puppeteer

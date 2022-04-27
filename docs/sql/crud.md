@@ -3,7 +3,6 @@ layout: default
 title: CRUD
 nav_order: 2
 parent: SQL
-permalink: docs/sql/crud
 ---
 
 # CRUD (Create, Read, Update, Delete) 
