@@ -18,7 +18,7 @@ Ps.: Plugin instalado em 22/03/2022
 
 <figure><embed src="https://wakatime.com/share/@e3b16052-c243-43a6-a933-02d4f02c4bb1/e93a6ecd-4882-42e0-8034-2816ca34129a.svg"></figure>
 
-<figure><embed src="https://wakatime.com/share/@e3b16052-c243-43a6-a933-02d4f02c4bb1/a4cf380a-f8ff-4c25-93c1-21bf99f38d66.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@e3b16052-c243-43a6-a933-02d4f02c4bb1/a4cf380a-f8ff-4c25-93c1-21bf99f38d66.svg"></figure>
 
 ## Meus projetos usando Javascript, React e Vue
 
