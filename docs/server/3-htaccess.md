@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Htaccess
-nav_order: 2
+nav_order: 3
 parent: Server
 permalink: docs/server/htaccess
 ---
@@ -60,3 +60,16 @@ RewriteRule . index.php [L]
 ```
 
 O arquivo é redigido usando regex.
+
+## Htaccess e o Client Side Rendering (CSR)
+
+Frameworks como o VUE e o React normalmente são configurados para realizarem a renderização do site no cliente, ou seja, o site no servidor é apenas um index.html, fazendo com que acessar um link diretamente `www.thailanagazawa.com.br/pages/post-sobre-algo` retorne um erro 404.
+
+Para resolver isso, é necessário que ao acessar o link, o servidor o leve sempre para o index.html e a requisição siga para o router. Adicione o seguinte código ao `.htaccess`.
+
+```
+Options -MultiViews
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.html [QSA,L]
+```
