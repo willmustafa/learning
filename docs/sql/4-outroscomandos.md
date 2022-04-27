@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Outros Comandos
-nav_order: 3
+nav_order: 4
 parent: SQL
 permalink: docs/sql/outroscomandos
 ---
