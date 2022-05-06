@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Atividade 1 - Planejamento de teste para um sistema
-nav_order: 3
+nav_order: 13
 parent: Teste de Software
 grand_parent: Engenharia de Software
 ---
